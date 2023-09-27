@@ -2,14 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Detail</title>
+    <title>Hello</title>
 </head>
 <body>
-    <center>
-        Feature 2
-    </center>
-    <p>this is the second page</p>
-    <p><button>ok !</button></p>
+    <h1>Hello Hello</h1>
 </body>
 </html>
